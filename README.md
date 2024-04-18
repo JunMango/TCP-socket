@@ -8,6 +8,7 @@
 1. branch main - README
 2. branch nodeJs - nodejs 로 구현한 TCP -socket code
 3. branch python - python 으로 구현한  TCP -socket code
+4. branch golang - golang 으로 구현한 TCP -socket code
 #### NodeJs net에 대한 추가적인 설명 참조
 
 공식문서 : https://nodejs.org/api/net.html
